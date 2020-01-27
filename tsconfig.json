@@ -1,0 +1,46 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "strictPropertyInitialization": false,
+    "strictNullChecks": true,
+    "strictFunctionTypes": true,
+    "noImplicitAny": true,
+    "removeComments": true,
+    "noFallthroughCasesInSwitch": true,
+    "noUnusedLocals": true,
+    "pretty": true,
+    "noImplicitThis": true,
+    "noImplicitReturns": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "noUnusedParameters": true,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "allowSyntheticDefaultImports": true,
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "alwaysStrict": true,
+    "declaration": true,
+    "noEmit": true,
+    "incremental": true,
+    "composite": true,
+    "target": "es6",
+    "module": "esnext",
+    "resolveJsonModule": true,
+    "sourceMap": true,
+    "downlevelIteration": true,
+    "allowJs": true,
+    "checkJs": true,
+    "useDefineForClassFields": true,
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "es6",
+      "esnext",
+      "webworker"
+    ]
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
